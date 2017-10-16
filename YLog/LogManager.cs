@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace YLog
 {
-    public class LogManager
-    {
-    }
+	public static class LogManager
+	{
+	}
 }
